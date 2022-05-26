@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=bullet
+comment1.params=x\ y\ moveDirection
+comment1.target=bullet(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ atEdge()
+comment4.params=
+comment4.target=void\ animateSpin()
+numComments=5
